@@ -8,7 +8,7 @@ body {
   color: #333;
 }
 
-#fixed {
+#article {
   position: fixed;
   top: 0;
   left: 8.6%;
@@ -36,7 +36,7 @@ p {
   line-height: 28px;
 }
 
-#relative {
+#nav {
   position: relative;
   height: 200px;
   padding: 20px;
@@ -45,7 +45,7 @@ p {
   background: #eee;
 }
 
-#absolute {
+#aside {
   position: absolute;
   right: -30px;
   bottom: 0;
